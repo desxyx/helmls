@@ -1,6 +1,6 @@
 # HELM.LS
 
-This repository is des's personal portfolio and showcase workspace.
+This repository is Des's personal portfolio and showcase workspace.
 
 Most projects in this repository will be deployed on AWS and published under the `helmls.com` domain.
 
