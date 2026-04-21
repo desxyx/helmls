@@ -1,4 +1,4 @@
-# HELMls
+# HELM.LS
 
 This repository is des's personal portfolio and showcase workspace.
 
