@@ -1,0 +1,11 @@
+# Credential material. Never commit this repository's working copies of
+# restore files, environment files or key material - this repo is public.
+si_admin_creds_restore.txt
+*creds*.txt
+*credentials*.txt
+.env
+.env.*
+*.pem
+*.key
+*.p12
+id_rsa*
